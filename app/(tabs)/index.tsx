@@ -13,9 +13,7 @@ export default function TabOneScreen() {
         lightColor="#eee"
         darkColor="rgba(255,255,255,0.1)"
       />
-      <Text className="h-20 w-20 bg-black">
-        Find me in app/(tabs)/index.tsx
-      </Text>
+      <Text>Welcome to App Starter</Text>
       <EditScreenInfo path="app/(tabs)/index.tsx" />
     </View>
   );

@@ -36,6 +36,7 @@ To work with this starter template, follow these basic steps:
 To set up Expo GitHub Actions in the terminal, follow these steps:
 
 1. Create an Expo account and install EAS CLI on your computer:
+
    ```
    npm install -g eas-cli
    eas login
@@ -45,6 +46,7 @@ To set up Expo GitHub Actions in the terminal, follow these steps:
    Follow the prompts, using your Expo account, and overwrite the key when prompted.
 
 2. Generate a personal access token:
+
    - Navigate to [Expo settings](https://expo.dev/settings/access-tokens).
    - Click "Create token" to generate a new personal access token.
    - Copy the token generated.
@@ -72,4 +74,3 @@ We welcome contributions from the community! If you find any issues or have sugg
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
