@@ -23,6 +23,16 @@ To work with this starter template, follow these basic steps:
 
 ## Features
 
+<details>
+
+   <summary>SDK 51 support</summary>
+This Repository now has a sdk51 branch which has all the new expo sdk 51 with new Arch Enabled, with same old fun<br>
+Happy coding!
+   
+
+   
+</details>
+
 - **Tailwind CSS Integration**: Tailwind CSS is pre-configured for effortless styling.
 - **CI/CD Pipelines**: Continuous Integration and Continuous Deployment pipelines are set up for streamlined development workflows.
 - **EAS Build Setup**: Easily configure and build your Expo projects using Expo Application Services.
