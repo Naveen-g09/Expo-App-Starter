@@ -1,3 +1,8 @@
+# [Update: 31/5/2024]
+
+As there are new tools such as expo.new or createexpostack which lets you customize and configure kickstarting of your expo journey, declaring this repo as depreceated.
+
+
 # Expo App Starter
 
 Welcome to Expo App Starter, a template repository designed to kickstart your app building journey with Expo! This repository comes fully equipped with all the prerequisites configured for seamless development. From Tailwind CSS integration to CI/CD pipelines, EAS build setup, GitHub actions, commit checks, pre-commit checks, type checking, and Expo router - everything you need is right here.
